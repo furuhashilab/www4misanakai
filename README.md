@@ -26,4 +26,6 @@
 * Jun.10 [ニッポン城めぐり](https://medium.com/furuhashilab/%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E5%9F%8E%E3%82%81%E3%81%90%E3%82%8A-e7a413d6fb41)
 * Jun.17 [ケータイ国盗り合戦](https://medium.com/furuhashilab/%E5%9B%BD%E7%9B%97%E3%82%8A%E5%90%88%E6%88%A6-94d15efcd151)
 
+## OpenStreetMap
+* [Diary](https://www.openstreetmap.org/user/MISA_AGU/diary/38650)
 
