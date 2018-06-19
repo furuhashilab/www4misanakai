@@ -1,8 +1,8 @@
 # Welcome to Misa'Page
 ## Activity Log
 
-[Apr.2o Geo-exhibition]()<br>
-<img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/30743391_10210409503865553_5862409486051835904_n.jpg?_nc_cat=0&oh=2a3e7d5958747b3faab647a80aeded32&oe=5B7D1E0D" width="500" height="270">
+<div align="center"> [Apr.2o Geo-exhibition]()</div><br>
+<div align="center" img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/30743391_10210409503865553_5862409486051835904_n.jpg?_nc_cat=0&oh=2a3e7d5958747b3faab647a80aeded32&oe=5B7D1E0D" width="500" height="270"></div>
 
 [May 3-5 Tree House]()<br>
 <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/35558017_2053677388285204_4480875900300165120_n.jpg?_nc_cat=0&oh=8ecd029f0607413d41f3d03a2a6e075b&oe=5B9E17CA" width="400" height="300">
