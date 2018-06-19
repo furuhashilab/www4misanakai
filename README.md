@@ -1,6 +1,6 @@
 # Welcome to Misa'Page
 ## Activity Log
-<!DOCTYPE　html>
+
 * Apr.2o Geo-exhibition
 ![Geo展](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/30743391_10210409503865553_5862409486051835904_n.jpg?_nc_cat=0&oh=2a3e7d5958747b3faab647a80aeded32&oe=5B7D1E0D)
 
